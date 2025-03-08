@@ -14,7 +14,7 @@ public class LoginPage {
 	// Locator
 	@FindBy(xpath = "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[4]/a[1]/i[1]")
 	public WebElement clickLoginSignBut;
-
+//public WebElement clickLoginSignBut;public WebElement clickLoginSignBut;
 	@FindBy(name = "name")
 	public WebElement enteryourName;
 	@FindBy(xpath = "/html[1]/body[1]/section[1]/div[1]/div[1]/div[3]/div[1]/form[1]/input[3]")
