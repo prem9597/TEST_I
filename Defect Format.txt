@@ -1,0 +1,39 @@
+Summary: App is crashing when user is opening the app in tablet devices
+
+Description:
+
+Platform/Device : iOS / iPad pro
+Build number: V 1.8.2106290726
+
+Problem/Actual:
+
+* App is crashing when user is opening the app in tablet devices
+* This issue is happening when turing the device from landscape to portrait
+* This issue is not happening mobile device
+* This issue is specific to Tablet
+
+Expected:
+
+* App should not crash when user is opening the app in tablet devices
+
+Steps to reproduce:
+
+1. Install the app
+2. Launch the app
+3. App will load for 5 secs
+4. *Problem:* App is crashing when user is opening the app in tablet devices
+
+Test Data:
+
+* username: ganeshbalachandran
+* password: 12345dty
+
+
+Environment: SIT
+Attachment: 
+
+Reporter: Beulah
+Severity: High
+Priority: High
+Linkage: 
+SLA:

@@ -1,0 +1,106 @@
+ OOPS:
+=====
+1.Define Class,Object and Method
+2.Define Inheritance and its purpose and relate it with your project and give an example.
+3.Define Encapsulation and its purpose and relate it with your project and give an example.
+4.Define Abstraction and its purpose and relate it with your project and give an example.
+5.Diff b/w Abstract class and Interface
+6.Can we create Object for Abstract class and Interface
+7.Default access specifier and modifiers for a method in interface
+8.Can we have private methods in interface
+9.Can we achieve multiple inheritance in java..If not justify
+10.Define Polymorphism and its purpose and relate it with your project and give an example.
+11.What is Static binding/Compile time polymorphism/Method overloading and Dynamic binding/Dynamic polymorphism/Method overriding?+
+12.Can we override a static method?
+13.When we have static method,constructor and instance method...Give the Execution order.
+
+
+String:
+======
+1.What is String?
+2.String is immutable in java,why?
+3.Diff between Literal and Non-literal String
+4.Diff between Mutable and Immutable String
+5.When there is String Class,Why we need to go for StringBuffer and StringBuilder
+6.Diff between StringBuffer and StringBuilder
+7.What is String constants pool
+8.Diff between Heap memory and stack memory.
+
+Collection:
+=========
+1.Diff between Collection and Collections
+2.Explain about Collection framework
+3.Why we need go for Collection when there is already Array concept
+4.List the differences between List,Set and Map
+5.Difference between Array and ArrayList
+6.Diff between ArrayList and LinkedList
+7.Diff between ArrayList and Vector
+8.What are the methods available in List that is not present in Set?
+9.How to convert an Array into List?
+10.Diff b/w normal for loop and enhanced for loop
+11.Types of List,Types of Set(order maintained by each Set),Types of Map(based on order of each Map and Null value acceptance)
+12.Diff b/w retainAll() and removeAll()
+13.diff b/w add(index,element) and set(index,element)
+14.How to iterate a Map
+15.Returntype of entrySet(),keySet(),values(),getKey(),getValue()
+16.Diff b/w keySet() and entrySet()
+17.What is Generics
+18.What is Upcasting
+19.What is Downcasting
+20.Explain List li=new ArrayList();
+21.What is wrapper class
+
+
+Exception:
+-----------------
+1.What is Exception Handling? or Exception handling mechanisms?
+2.Explain try,catch,finally blocks
+3.can we have more than one catch blocks for single try?
+4.Can we handle more than one exceptions using single catch block?
+5.Difference between throws and throw keyword
+5.Super class of all Exceptions
+6.Diff between Checked(Compile time) and Unchecked(Run time) Exceptions
+7.List out some checked and Unchecked Exceptions
+8.Can we use throws Throwable?
+9.Diff between Exception and Error
+10.Can we have Parent class Exception Catch block above Child class Exception Catch Block
+
+Constructor:
+==========
+1.What is Constructor?
+2.Why Constructor is an implicit call?
+3.Types of Constructor(default,parameterised and Non-parameterised constructors)
+4.When you have not  explicitly defined any constructor in your class,How constructor will get invoked while Object creation?
+5.Can we Overload a Constructor?
+6.Can we Override a Constructor?
+7.What is Constructor Chaining?What is the use of Constructor Chaining?
+8.Diff b/w this and super keyword
+9.Diff b/w this() and super() keyword
+
+
+Other topics:
+===========
+1.Diff between Local variable,instance variable and class variable
+2.What are the predefined final classes available in java
+3.Access specifiers(Public,private,default and protected)
+4.Access modifiers( usage of       abstract,static,final keywords-----at variable,method and class level)
+5.Default value of each datatype
+6.Explain the syntax of main method
+7.Diff b/w break,continue,exit(0) and return
+8.Super class of all classes in Java
+9.Whether java is completely Object oriented
+10.Diff between while and dowhile
+11.File handling methods
+12.What is Singleton Design Pattern.
+13.Diff b/w final,finally and finalize
+
+
+
+
+
+
+
+
+
+
+
