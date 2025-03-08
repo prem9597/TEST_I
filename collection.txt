@@ -1,0 +1,142 @@
+Array Dis adv:
+==============
+1.it support only similer data types
+2.memory wastage is very high(memory is allocated at compiletime)
+
+
+Collection:I
+============
+used to store collection of dis-similer data in single variable 
+memory wastage is low due to memory is allocated at runtime
+
+List:I
+======
+List is a predefined interface which is present in java.util
+List is index based 
+index starts from 0 and ends with n-1
+list allow duplicate value
+list prints the values in insertion order
+
+Types of List (or) Classes of List:
+===================================
+ArrayList
+LinkedList
+Vector
+
+
+
+List li = new ArrayList();
+
+
+List --->Interface
+li   --->refName for List and objectRef for ArrayList
+new  --->keyword
+ArrayList --->Class of List
+
+
+add() --->to insert the value
+size() -->to find the size of the List
+add(index,value) --->to insert the value at particular position
+set(index,value) --->to replace the value by using index
+remove(index)  ---->to remove the particular value from list by using index
+indexOf(value)  ---->to find the index position of particular value(first occurrence)
+lastIndexOf(value) --->to find the index position of particular value(last occurrence)
+contains(value) --->to check whether value is present or not
+isEmpty() ---->to check whether list is empty or not
+get(index) --->to get the particular value by using index
+clear() ---->to clear all the values
+addAll() --->to copy paste the element from one List to another list
+removeAll() --->to remove the common value from both list
+retainAll() --->to get the common values from both list
+
+
+
+Generics:
+=========
+it support only similer data's
+<> --->angular (or) dimond bracket
+jdk 1.5
+Wrapper class ---->classes of all the Data types
+
+
+Set:I
+=====
+Set is predefined interface which is present in java.util
+Set is value based
+Set doesn't allow duplicates
+Order is based on class which we implemented
+
+
+Class of Set (or) Types of Set:
+===============================
+LinkedHashSet --->insertion
+HashSet       --->Random order
+TreeSet       --->Ascending oredr
+
+
+
+add()
+remove(value)
+isEmpty()
+contains()
+clear()
+
+
+method which is supported by List not by Set:
+=============================================
+add(index,value)
+set(index,value)
+remove(index)
+get(index)
+indexOf()
+lastIndexOf()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

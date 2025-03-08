@@ -1,0 +1,63 @@
+1.What is constructor?
+2.Difference between  Default Constructor/Non Parameterized constructor & Parameterized Constructor?
+3.What is constructor chaining?
+4.Difference between this() & super()
+5.Can we overload a constructor or not?
+6.Can we override a constructor or not?
+
+
+
+Constructor:
+============
+-it is a special method,when object is created to the class it get invoke autonatically
+-ClassName and Constructor Name should be Same
+-Constructor doesn't have any return type
+-purpose is to intialize the variable
+
+
+Types:
+======
+1.Default Constructor/Non Parameterized constructor
+2.Parameterized Constructor
+
+
+Constructor Chaining
+====================
+Process of Callign one constructor from another constructor with respectively current object creation
+
+To acheive constructor chaining --->this & super
+
+this() --->it used to call the current class constructor
+
+super() --->it used to call the super class construtor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

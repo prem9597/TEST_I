@@ -1,0 +1,35 @@
+git init
+
+git add .
+
+git status
+
+git commit -m "user msg"
+
+for 1st to push ur project from local to remote
+git reomte add origin repo url
+
+to push
+-----
+git push -u origin branchmname
+
+from repo to local
+---------------------
+git clone repourl
+
+to change branh:
+--------------
+git checkout branchname
+
+to get updated copy:
+---------------------
+git pull origin master
+
+
+to creat a new branch with git command:
+----------------------------------------
+git branch branchname
+
+To know branch details of ur repo:
+-----------------------------------
+git fetch
