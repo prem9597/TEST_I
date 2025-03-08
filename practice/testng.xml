@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="sample1">
+  <parameter name="PREM" value="PREM "/>
+  <parameter name="PRABHA" value="❤️ PRABHA"/>
+    <classes>
+      <!--<class name="test.v1.org.practice.test1"/>-->
+      <class name="test.v1.org.practice.test2"/>
+    </classes>
+  </test> <!-- sample1 -->
+</suite> <!-- Suite -->
